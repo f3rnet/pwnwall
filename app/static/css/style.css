@@ -1,0 +1,77 @@
+body {
+    background-image: url("../hackers3.jpg");
+    background-size: cover;
+}
+.container {
+	width: 1200px;
+	height: 1200px;
+	align-content: center;
+	margin: 0 auto;
+}
+
+.handle {
+	width: 800px;
+    height: 50%;
+    margin: 0 auto;
+    padding-top: 70px;
+
+}
+.handle form {
+	display: block;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+.handle h1 {
+	text-align: left;
+	font-family: "impact", "arial", "georgia";
+	font-size: 40;
+	font-style: italic;
+	text-shadow: 2px 2px #4dff4d;
+	color: #ff3399;	
+
+}
+.handle p {
+	text-align: left;
+}
+
+.nav_container {
+	display: block;
+	width: 50%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 0px;
+	padding-bottom: 0px;
+
+
+}
+
+.nav {
+	display: center;
+	width: 55%;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+.nav a:visited, a:link {
+	background-color: #000000;
+	color: #ff3399;
+	font-family: "arial", "georgia";
+	text-decoration: none;
+	font-size: 36;
+	padding-left: 10px;
+	padding-right: 10px;
+
+ }
+.nav a:hover {
+	background-color: #ff3399;
+	color: #000000;
+}
+.nav h1 {
+	font-family: "arial", "georgia";
+	color: #ff3399;
+}
